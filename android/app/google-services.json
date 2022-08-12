@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917398961724",
+    "project_id": "whatsapp-replication",
+    "storage_bucket": "whatsapp-replication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917398961724:android:e9ec02f5a006b30d420d39",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_replication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917398961724-ope03lpb00u4o7i2dr7uhvna7he2q3fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsapp_replication",
+            "certificate_hash": "11b9a84defac1b05d54f677e87136ee3732ef929"
+          }
+        },
+        {
+          "client_id": "917398961724-rbpan96b80iqjepr6j7nkftijrgdkpcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3EoaNRjTxbo0kFdOdzq-SqlT2TIASsZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917398961724-rbpan96b80iqjepr6j7nkftijrgdkpcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
